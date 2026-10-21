@@ -1,6 +1,6 @@
 # Central Coast Tattoos
 
-Demo website concept for **Central Coast Tattoos** — Central Coast NSW.
+Demo website concept for **Central Coast Tattoos** — Central Coast, NSW.
 
 Live preview: https://central-coast-tattoos-mockup.netlify.app
 
